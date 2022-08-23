@@ -1,0 +1,17 @@
+
+.container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.half {
+    position: absolute;
+    left: -0%;
+    right: 0%;
+    top: -20.31%;
+    bottom: 40.91%;
+    background: linear-gradient(-180deg, 
+    rgba(242, 201, 76, 0.2) 0%, rgba(242, 153, 74, 0.2) 100%);
+    transform: skewY(-10deg)
+}
